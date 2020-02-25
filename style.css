@@ -1,0 +1,35 @@
+body{
+background:pink;
+background-image:url('https://image.winudf.com/v2/image/Y29tLnJlbi5oZGJhY2tncm91bmR0aGVtZXNfc2NyZWVuc2hvdHNfMl9mYTgxNjkxZA/screen-2.jpg?fakeurl=1&type=.jpg');
+background-size:100% 100%;
+width:100%;
+}
+h1{
+  color:black;
+  font-size:46;text-align:center;
+  font-family:Times New Roman;
+}
+
+button{
+	
+	background-color: #1c87c9;
+         border: none;
+         color: white;
+         padding: 25px 34px;
+         text-align: center;
+         text-decoration: none;
+         display: block;
+         font-size: 30px;
+         margin:100px;
+         cursor: pointer;
+		
+}
+
+img{
+	
+	margin-left:auto;
+	margin-top:auto;
+	align:middle;
+	display:block;
+	margin:-230px 0 0 -230px;
+}
