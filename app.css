@@ -1,0 +1,33 @@
+body{
+background:pink;
+background-image:url('https://d3vvnhml5anv1n.cloudfront.net/content/uploads/2017/11/photo-theme-1.jpg');
+background-size:1500px 1000px;
+width:100%;
+}
+h1{
+  color:Pink;
+  font-size:46;text-align:center;
+  font-family:Times New Roman;
+}
+
+button{
+	
+	background-color: #1c87c9;
+         border: none;
+         color: white;
+         padding: 1px;
+         text-align: center;
+         text-decoration: none;
+         display: block;
+         font-size: 30px;
+         margin:0 auto;
+         cursor: pointer;
+		 translate:transform(-50%,-50%);
+}
+
+img{
+	
+	margin:auto;
+	display:block;
+	
+}
