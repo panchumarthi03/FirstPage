@@ -1,0 +1,32 @@
+body{
+background:pink;
+background-image:url('https://user-images.githubusercontent.com/61387329/78283229-c9e5bf80-751d-11ea-85f5-7a2d7fedeec5.png');
+background-size:1500px 1000px;
+width:100%;
+}
+h1{
+  font-size:46;text-align:center;
+  font-family:Times New Roman;
+}
+
+button{
+	
+	background-color: #1c87c9;
+         border: none;
+         color: white;
+         padding: 1px;
+         text-align: center;
+         text-decoration: none;
+         display: block;
+         font-size: 30px;
+         margin:0 auto;
+         cursor: pointer;
+		 translate:transform(-50%,-50%);
+}
+
+img{
+	
+	margin:auto;
+	display:block;
+	
+}
